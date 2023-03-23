@@ -1,5 +1,5 @@
 # native-todolist
 
 ### Todo List in React Native
-![title](ui.jpeg){height="40px" width="20px"}
+![title](ui.jpeg){height="40px" width="20px"}.
 
